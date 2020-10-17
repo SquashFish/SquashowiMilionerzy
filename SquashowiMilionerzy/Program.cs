@@ -58,7 +58,6 @@ namespace SquashowiMilionerzy
                 CorrectAnswer = 'A'
             });
 
-            public static extern PrintQuestion(List<Question><Questions500>);
 
             List<Question> selectedQuestions = new List<Question>();
             Random dice = new Random(); // random number generator
@@ -67,11 +66,20 @@ namespace SquashowiMilionerzy
                 int i = dice.Next(questions.Count); // int i variable to represent a random number
                 selectedQuestions.Add(questions[i]); // addition of a question from AllQuestions to selectedQuestions
             }
-            
-           
-
-
-
+            bool result = true;
+            foreach (Question question in selectedQuestions)
+            {
+                if (result == true)
+                {
+                    question.AskQuestion();
+                }
+                else
+                {
+                    Console.WriteLine("G A M E O V E R");
+                    break;
+                }
+            }
+            Console.ReadKey();
         }
 
     }

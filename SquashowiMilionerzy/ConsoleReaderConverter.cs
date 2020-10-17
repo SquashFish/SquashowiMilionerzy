@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace SquashowiMilionerzy
 {
@@ -12,7 +10,7 @@ namespace SquashowiMilionerzy
             char result = ' ';
             while (success == false)
             {
-                success = char.TryParse(Console.ReadLine().ToLower().Trim(),out result );
+                success = char.TryParse(Console.ReadLine().ToLower().Trim(), out result);
 
                 if (success == false)
                 {

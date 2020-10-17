@@ -16,7 +16,7 @@ namespace SquashowiMilionerzy
 
                 if (success == false)
                 {
-                    Console.WriteLine("Wpisz jeden znak");
+                    Console.WriteLine("Wpisz tylko jeden znak");
                 }
             }
             return result;

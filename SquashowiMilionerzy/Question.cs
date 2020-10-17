@@ -7,21 +7,21 @@ namespace SquashowiMilionerzy
 {
     public class Question
     {
-        public string QuestionText;
-        public string[] Answers;
-        public char CorrectAnswer;
+        public string QuestionText { get; set; }
+        public string[] Answers { get; set; }
+        public char CorrectAnswer { get; set; }
         private void PrintQuestion()// should be single responsibility
         {
             Console.WriteLine(QuestionText);
             foreach (string answer in Answers)
-            {
+
                 Console.WriteLine(answer);
-            }
         }
+
         private bool CheckAnswer()
         {
             ConsoleReaderConverter reader = new ConsoleReaderConverter();
-            
+
             char answer = reader.ReadChar();
             if (answer == char.ToLower(CorrectAnswer))
             {

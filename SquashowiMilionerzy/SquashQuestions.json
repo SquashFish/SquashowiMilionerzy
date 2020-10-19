@@ -1,0 +1,450 @@
+[
+	[
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Ile punktów musisz wygrać, aby wygrać jeden set w squashu?",
+			"Answers": ["a.15","b.9","c.11","d.21"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Ile setów musimy wygrać aby wygrać mecz best of 3?",
+			"Answers": ["a.2","b.3","c.1","d.0"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Ile setów musimy wygrać aby wygrać mecz best of 5?",
+			"Answers": ["a.3","b.5","c.1","d.7"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Ile żółtyh kropek ma profesjonalna piłka do squasha?",
+			"Answers": ["a.0","b.1","c.2","d.3"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Która z tych osób nie jest zawodnikiem squasha?",
+			"Answers": ["a.Daniel Poleshchuk","b.Daniel Mekbib","c.David Beckham","d.Declan James"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Która z tych osób nie jest zawodnikiem squasha?",
+			"Answers": ["a.Ronald Regan","b.Nicol David","c.Mohamed El Shorbagy","d.Camille Serme"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Która z tych osób nie jest zawodnikiem squasha?",
+			"Answers": ["a.Nele Gilis","b.Olivia Clyne","c.Jacinda Ardern","d.Alison Water"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Która z tych marek nie produkuje rakiet do gry w squasha?",
+			"Answers": ["a.Dunlop","b.Head","c.Mercedes","d.Karakal"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Która z tych marek nie produkuje rakiet do gry w squasha?",
+			"Answers": ["a.Eye","b.Suzuki","c.Harrow","d.Tecnifibre"],
+			"CorrectAnswer": "B"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Jakiego koloru jest piłka do squasha, która rozgrywa się mecz na szklanym korcie?",
+			"Answers": ["a.Niebieska","b.Żółta","c.Czarna","d.Białą"],
+			"CorrectAnswer": "D"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Jak nazywa się decyzja powtórki akcji w squashu?",
+			"Answers": ["a.No let","b.Let","c.Stroke","d.Lob"],
+			"CorrectAnswer": "B"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Który z tych graczy nie jest z Angli?",
+			"Answers": ["a.Nick Matthew","b.James Willstrop","c.Declan James","d.Simon Rosner"],
+			"CorrectAnswer": "D"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Która z tych zawodniczek nie jest z Angli?",
+			"Answers": ["a.Sarah-Jane Perry","b.Alison Water","c.Camille Serme","d.Laura Massaro"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Ile kwadratów znajduje się na korcie do squasha?",
+			"Answers": ["a.1","b.2","c.3","d.4"],
+			"CorrectAnswer": "B"
+		},
+		{
+			"DifficultyLevel": 500,
+			"QuestionText": "Ilu zawodników potrzebnych jest do rozegrania meczu w squasha?",
+			"Answers": ["a.5","b.3","c.1","d.2"],
+			"CorrectAnswer": "D"
+		}
+	],
+	[
+		{
+			"DifficultyLevel": 1000,
+			"QuestionText": "Ile czerwonych linii znajduje się na frontowej ścianie kortu do squasha?",
+			"Answers": ["a.1","b.2","c.3","d.5"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 1000,
+			"QuestionText": "Ile czasu trwa przerwa między setami w profesjonalnym meczu sqausha?",
+			"Answers": ["a.60s","b.90s","c.120s","d.5 minut"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 1000,
+			"QuestionText": "Jakiej szerokości są czerwone linie na korcie do squasha?",
+			"Answers": ["a.5cm","b.8cm","c.10cm","d.20cm"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 1000,
+			"QuestionText": "Która z poniższych to najstarsza juniorska kategoria wiekowa?",
+			"Answers": ["a.U18","b.U19","c.U21","d.U23"],
+			"CorrectAnswer": "B"
+		},
+		{
+			"DifficultyLevel": 1000,
+			"QuestionText": "Jakich rozmiarów jest boks serwisowy?",
+			"Answers": ["a.1,6m x 1,6m","b.2m x 2m","c.3m x 3m","d.3,5m x 3,5m"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 1000,
+			"QuestionText": "Jakiej długości jest kort do squasha?",
+			"Answers": ["a.6,75m","b.7,75m","c.8,75m","d.9,75m"],
+			"CorrectAnswer": "D"
+		}
+	],
+	[
+		{
+			"DifficultyLevel": 2000,
+			"QuestionText": "Jak nazywa się aktualny Mistrz Polski seniorów?",
+			"Answers": ["a.Przemysław Atras","b.Filip Jarota","c.Mateusz Kotra","d.Wojciech Nowisz"],
+			"CorrectAnswer": "B"
+		},
+		{
+			"DifficultyLevel": 2000,
+			"QuestionText": "Skąd pochodzi zawodniczka PSA Tesni Evans?",
+			"Answers": ["a.Irlandia","b.Szkocja","c.Walia","d.Anglia"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 2000,
+			"QuestionText": "Jak nazywa się aktualna Mistrzyni Polski seniorek?",
+			"Answers": ["a.Natalia Ryfa","b.Magda Kamińska","c.Dominika Witkowska","d.Karina Tyma"],
+			"CorrectAnswer": "D"
+		},
+		{
+			"DifficultyLevel": 2000,
+			"QuestionText": "Który z tych klubów to największy klub do squasha w Polsce?",
+			"Answers": ["a.Squash4U","b.Enjoy","c.Hasta La Vista","d.SquashCity"],
+			"CorrectAnswer": "C"
+		},			
+		{
+			"DifficultyLevel": 2000,
+			"QuestionText": "W którym mieście odbyły się IMP w squashu w 2020 roku?",
+			"Answers": ["a.Wrocław","b.Warszawa","c.Szczecin","d.Katowice"],
+			"CorrectAnswer": "A"
+		}
+	],
+	[
+		{
+			"DifficultyLevel": 5000,
+			"QuestionText": "Która z tych europejskich zawodniczek osiągneła pozycję numer 1 w światowym rankingu PSA?",
+			"Answers": ["a.Camille Serme","b.Laura Massaro","c.Sarah-Jane Perry","d.Tesni Evans"],
+			"CorrectAnswer": "B"
+		},
+		{
+			"DifficultyLevel": 5000,
+			"QuestionText": "Który z tych europejskich zawodników osiągnął pozycję numer 1 w światowym rankingu PSA?",
+			"Answers": ["a.Nick Matthew","b.Simon Rosner","c.Joel Makin","d.Alex Gough"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 5000,
+			"QuestionText": "Który z poniższych krajów uważany jest, na chwilę obecną,jako najwięszka squashowa siła na świecie?",
+			"Answers": ["a.USA","b.Anglia","c.Chiny","d.Egipt"],
+			"CorrectAnswer": "D"
+		},
+		{
+			"DifficultyLevel": 5000,
+			"QuestionText": "Kto miał pseudonim 'The Wolf' na PSA World Tour?",
+			"Answers": ["a.Johnathan Power","b.Thierry Licnou","c.Nick Matthew","d.Peter Barker"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 5000,
+			"QuestionText": "Kto ma pseudonim 'Terminator' na PSA World Tour?",
+			"Answers": ["a.Nour El Sherbini","b.Nouran Gohar","c.Amanda Sobhy","d.Joelle King"],
+			"CorrectAnswer": "B"
+		}
+	],
+
+	[
+		
+		{
+			"DifficultyLevel": 10000,
+			"QuestionText": "Jak nazywa się Mistrzyni Świata Juniorów w squashu z 2019 roku?",
+			"Answers": ["a.Hania El Hammamy","b.Hania Nowak","c.Hania Lopez","d.Hania Smith"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 10000,
+			"QuestionText": "Kto ma pseudonim 'Warrior Princess' na PSA World Tour?",
+			"Answers": ["a.Nour El Sherbini","b.Nouran Gohar","c.Nour El Tayeb","d.Salma Hany"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 10000,
+			"QuestionText": "Kto ma pseudonim 'French General' na PSA World Tour?",
+			"Answers": ["a.Gregoire Marche","b.Gregory Gaultier","c.Mathieu Castagnet","d.Lucas Serme"],
+			"CorrectAnswer": "B"
+		},
+		{
+			"DifficultyLevel": 10000,
+			"QuestionText": "Kto ma pseudonim 'Black Widow' na PSA World Tour?",
+			"Answers": ["a.Nour El Sherbini","b.Nouran Gohar","c.Nour El Tayeb","d.Salma Hany"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 10000,
+			"QuestionText": "Kto ma pseudonim 'The Marksman' na PSA World Tour?",
+			"Answers": ["a.James Willstrop","b.Mathieu Castagnet","c.Simon Rosner","d.Cesar Salazar"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 10000,
+			"QuestionText": "Kto ma pseudonim 'The Jackal' na PSA World Tour?",
+			"Answers": ["a.Marwan El Shorbagy","b.Mohamed El Shorbagy","c.Nicolas Mueller","d.Tom Richards"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 10000,
+			"QuestionText": "Kto ma pseudonim 'Treechopper' na PSA World Tour?",
+			"Answers": ["a.Simon Rosner","b.Raphael Kandra","c.Nicolas Mueller","d.Alan Clyne"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 10000,
+			"QuestionText": "Jak nazywa się Mistrz Świata Juniorów w squashu z 2019 roku?",
+			"Answers": ["a.Mostafa Khan","b.Mostafa El Szal","c.Mostafa Asal","d.Jan Szal"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 10000,
+			"QuestionText": "Który z poniższych krajów uważany jest, na chwilę obecną,jako najwięszka squashowa siła na świecie?",
+			"Answers": ["a.USA","b.Anglia","c.Chiny","d.Egipt"],
+			"CorrectAnswer": "D"
+		},
+		{
+			"DifficultyLevel": 10000,
+			"QuestionText": "Jak nazywa się największy, najstarszy i najbardziej prestiżowy turniej juniorski squasha na świecie?",
+			"Answers": ["a.French Junior Open","b.German Junior Open","c.British Junior Open","d.US Junior Open"],
+			"CorrectAnswer": "C"
+		},			
+		{
+			"DifficultyLevel": 10000,
+			"QuestionText": "W którym mieście w Polsce odbyły się Mistrzostwa Świata Juniorów w 2013 roku?",
+			"Answers": ["a.Bielsko-Biała","b.Kraków","c.Warszawa","d.Wrocław"],
+			"CorrectAnswer": "D"
+		}
+	],
+	[
+		{
+			"DifficultyLevel": 20000,
+			"QuestionText": "W którym roku powstał Polski Związek Squasha?",
+			"Answers": ["a.2006","b.2007","c.2017","d.2018"],
+			"CorrectAnswer": "D"
+		},
+		{
+			"DifficultyLevel": 20000,
+			"QuestionText": "Co oznacza określenie 'tie break' podczas meczu w squasha?",
+			"Answers": ["a.połamany krawat","b.przerwa na krawat","c.tyci przerwę","d.dogrywkę"],
+			"CorrectAnswer": "D"
+		},
+		{
+			"DifficultyLevel": 20000,
+			"QuestionText": "Jaka była najdłuższa nieprzerwana passa wygranych meczy w squashu przez jednego zawodnika?",
+			"Answers": ["a.165","b.97","c.555","d.55"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 20000,
+			"QuestionText": "Jak nazywał się pierwszy francuski Mistrz Świata w squashu?",
+			"Answers": ["a.Gregory Gaultier","b.Jacques Chirac","c.Thierry Lincou","d.Thierry Henry"],
+			"CorrectAnswer": "D"
+		},
+		{
+			"DifficultyLevel": 20000,
+			"QuestionText": "Kto został piosenkarzem po zakończeniu swojej kariery w PSA?",
+			"Answers": ["a.Robbie Williams","b.Enrique Iglesias","c.Ramy Ashour","d.Jesus Camacho"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 20000,
+			"QuestionText": "W którym roku rozegrano pierwszy Polish Junior Open w squashu?",
+			"Answers": ["a.2006","b.2008","c.2009","d.2010"],
+			"CorrectAnswer": "D"
+		},
+		{
+		"DifficultyLevel": 20000,
+			"QuestionText": "W którym mieście w Polsce odbyły się Mistrzostwa Świata Juniorów w 2016 roku?",
+			"Answers": ["a.Bielsko-Biała","b.Kraków","c.Warszawa","d.Wrocław"],
+			"CorrectAnswer": "A"
+		}
+	],
+	[
+		{
+			"DifficultyLevel": 40000,
+			"QuestionText": "Ile razy IMP seniorów w squashu odbyły się w Poznaniu?",
+			"Answers": ["a.4","b.5","c.6","d.7"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 40000,
+			"QuestionText": "Jak nazywa się obecnie najmłodsza zawodniczka w Top10 światowego rankingu PSA?",
+			"Answers": ["a.Hania El Hammamy","b.Nouran Gohar","c.Nour El Sherbini","d.Nour El Tayeb"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 40000,
+			"QuestionText": "W którym egipskim klubie trenowała była numer 1 na świecie i Mistrzyni Świata 2017 - Reneem El Weleily?",
+			"Answers": ["a.Wadi Degla","b.Al Ahly","c.Smouha","d.Al Nasr"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 40000,
+			"QuestionText": "W którym mieście odbyły się pierwsze w historii Indywidualne Mistrzostwa Polski w squashu? Był to rok 2003.",
+			"Answers": ["a.Poznań","b.Kraków","c.Gdańsk","d.Warszawa"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 40000,
+			"QuestionText": "Ile tytułów Mistrzyni Świata- World Open posiada Nicol David?",
+			"Answers": ["a.4","b.8","c.11","d.13"],
+			"CorrectAnswer": "B"
+		}
+	],
+	[
+		{
+			"DifficultyLevel": 75000,
+			"QuestionText": "Która z zawodniczek została okrzyknięta tytułem GOAT – Greatest of All Time?",
+			"Answers": ["a.Michelle Martin","b.Nour El Sherbini","c.Laura Massaro","d.Nicol David"],
+			"CorrectAnswer": "D"
+		},
+		{
+			"DifficultyLevel": 75000,
+			"QuestionText": "Który z zawodników został okrzyknięty tytułem GOAT – Greatest of All Time?",
+			"Answers": ["a.Nick Matthew","b.Ramy Ashour","c.Jahangir Khan","d.Johnathan Power"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 75000,
+			"QuestionText": "Jak nazywał się legendarny gracz lat 60-tych i 70-tych, którego nazywano 'Mr Squash'?",
+			"Answers": ["a.John Barrington","b.William Barrington","c.Jonah Barrington","d.George Barrington"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 75000,
+			"QuestionText": "Jahangir Khan, Jansher Khan to legendy squasha z Pakistanu, przed ich erami był jeszcze... ?",
+			"Answers": ["a.Qamar Zaman","b.Mushtaq Mohammad","c.Asif Iqbal","d.Imran Khan"],
+			"CorrectAnswer": "A"
+		}
+	],
+	[
+		{
+			"DifficultyLevel": 125000,
+			"QuestionText": "Jak nazywał się pierwszy, nieistniejący już klub do squasha w Poznaniu?",
+			"Answers": ["a.Dynamix","b.Thermomix","c.Squashix","d.Magix Mix"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 125000,
+			"QuestionText": "Która para jako pierwsza w historii sportu równocześnie wygrała tytuł US Open w 2017 roku?",
+			"Answers": ["a.Nour El Tayeb i Ali Farag","b.Vanessa Atkinson i James Willstrop","c.Raneem El Weleily i Tarek Momen","d.Oliva Clyne i Alan Clyne"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 125000,
+			"QuestionText": "Jak nazywa się australijski aktor, który jest fanem squasha i grał w filmie Wolverine?",
+			"Answers": ["a.Hugh Grant","b.Hugh Laurie","c.Hugh Jackman","d.Hugh Lofting"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 125000,
+			"QuestionText": "Na której wyspie należącej do Francji, urodził się Thierry Lincou?",
+			"Answers": ["a.Na Korsyce","b.Na Reunion","c.Na Nowej Kaledonii","d.Na Martynice"],
+			"CorrectAnswer": "B"
+		}
+	],
+	[
+		{
+			"DifficultyLevel": 250000,
+			"QuestionText": "W którym roku ustalono i przyjęto obecne wymiary kortu do squasha?",
+			"Answers": ["a.1842","b.1890","c.1920","d.1945"],
+			"CorrectAnswer": "C"
+		},
+		{
+			"DifficultyLevel": 250000,
+			"QuestionText": "Jakiej wysokości jest linia blachy na meczach PSA?",
+			"Answers": ["a.15 cali","b.17 cali","c.19 cali","d.21 cali"],
+			"CorrectAnswer": "B"
+		},
+		{
+			"DifficultyLevel": 250000,
+			"QuestionText": "Ile minut trwał najdłuższy profesjonalny mecz squasha?",
+			"Answers": ["a.120min","b.140min","c.160min","d.170min"],
+			"CorrectAnswer": "D"
+		},
+		{
+			"DifficultyLevel": 250000,
+			"QuestionText": "Ile razy podczas swojej kariery, Nick Matthew zdobył tytuł Mistrza Świata?",
+			"Answers": ["a.2","b.3","c.4","d.5"],
+			"CorrectAnswer": "B"
+		}
+	],
+	[
+		{
+			"DifficultyLevel": 500000,
+			"QuestionText": "Jak nazywa się leworęczny gracz z Egiptu, który czterokrotnie zdobył tytuł Mistrza Świata?",
+			"Answers": ["a.Ahmed Barada","b.Amr Shabana","c.Karim Darwish","d.Wael el Hindi"],
+			"CorrectAnswer": "B"
+		},
+		{
+			"DifficultyLevel": 500000,
+			"QuestionText": "W którym roku rozegrano pierwsze Mistrzostwa Świata mężczyzn w squashu?",
+			"Answers": ["a.1976","b.1986","c.1996","d.1906"],
+			"CorrectAnswer": "A"
+		},
+		{
+			"DifficultyLevel": 500000,
+			"QuestionText": "W którym roku rozegrano pierwsze Mistrzostwa Świata kobiet w squashu?",
+			"Answers": ["a.1946","b.1969","c.1979","d.1989"],
+			"CorrectAnswer": "C"
+		}
+	],
+	[
+		{
+			"DifficultyLevel": 1000000,
+			"QuestionText": "Jak nazywał się zwycięzca Mistrzostw Świata - World Open w 1986 roku, który przerwał passę zwycięstw Jahangira Khana?",
+			"Answers": ["a.Ross Norman","b.Norman Ross","c.Ross Nording","d.Norman Clusky"],
+			"CorrectAnswer": "A"
+		}
+
+	]
+]
+
